@@ -1,6 +1,4 @@
-# portfolio
-Projects completed during learning and pet  projects demonstrating my data skills.
-
+# Выполненные проекты
 
 |Название проекта|Сферы деятельности|Задачи проекта|Навыки и инструменты|
 |:--------------:|:--------------:|:--------------:|:--------------:|
